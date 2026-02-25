@@ -1,4 +1,0 @@
-- name: Build EXE
-        run: |
-          npm install
-          npx electron-builder  # Using npx ensures it finds the local install
